@@ -1,0 +1,16 @@
+---
+
+location_endpoints:
+  - fra01.latency.g-portal.cloud
+  - mnz01.latency.g-portal.cloud
+  - sin01.latency.g-portal.cloud
+  - dfw02.latency.g-portal.cloud
+  - syd01.latency.g-portal.cloud
+  - lax01.latency.g-portal.cloud
+  - lax03.latency.g-portal.cloud
+  - hnd01.latency.g-portal.cloud
+  - iad01.latency.g-portal.cloud
+  - dfw01.latency.g-portal.cloud
+  - lon01.latency.g-portal.cloud
+  - tpe01.latency.g-portal.cloud
+  - dus01.latency.g-portal.cloud
